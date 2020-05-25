@@ -1,11 +1,17 @@
 # My Designs
 
 <pre>
-Eid Ul Fitar 2020:
+XUCBD Eid Ul Fitar 2020:
 Image Type: SVG
-Width: 1920 px
-Heidth: 1080 px
 Made with Inkscape
+</pre>
+
+
+<pre>
+TF Eid Ul Fitar 2020:
+Image Type: SVG
+Made with Inkscape
+Font Source: https://www.dafont.com/theme.php?cat=202
 </pre>
 
 Copyright © 2020 | Sakib
