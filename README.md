@@ -14,4 +14,11 @@ Made with Inkscape
 Font Source: https://www.dafont.com/theme.php?cat=202
 </pre>
 
+
+<pre>
+Credit Card:
+Image Type: SVG
+Made with Inkscape
+</pre>
+
 Copyright © 2020 | Sakib
